@@ -11,6 +11,7 @@
 
 ## 구현 내용
 
+
 ### 초기 세팅
 
 1. create react app 사용하여 react 환경 세팅
@@ -20,6 +21,7 @@
     ⇒ scss 설정에서 createGlobalStyle 활용하여 전역 초기 세팅 변경
 2. styled-components 사용하여 스크립트 내부 css 선언
 3. 스타일 가이드에 맞추어 color, fonts 등 공통 변수 추가 (ThemeProvider 활용)
+
 
 ### 채팅 리스트 (/list)
 
@@ -31,6 +33,7 @@
 6. axios로 더미 데이터 호출 후 useState 활용하여 데이터 전달
 
 7. 제시 조건에 맞게 채팅방 리스트 데이터 값 삽입
+
 
 ### 채팅방 (/room)
 
@@ -54,6 +57,7 @@
 6. 날짜 변경 시 채팅방 내 날짜 구분선 추가
 7. 채팅방 사진 추가 기능 구현
     - useState에서 set 부분을 자식에게 넘겨 자식 컴포넌트에서 부모로 state값을 변환
+
 
 ## 추가 정리
 
