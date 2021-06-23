@@ -26,7 +26,7 @@ const Profile = styled.span`
 	padding-bottom: 100%;
 	border-radius: 50%;
 	text-indent : -9999px;
-	background: url(${(props) => props.thumb || "/images/img-profile-default.jpeg"}) no-repeat 50% 50% / 100%;
+	background: url(${(props) => props.thumb || "/react-chatting/images/img-profile-default.jpeg"}) no-repeat 50% 50% / 100%;
 `
 // 유저 정보 + 메시지
 const UserInfo = styled.div`

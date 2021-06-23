@@ -3,7 +3,7 @@
 		{
 			"id" : 1,
 			"name" : "장만월 사장님",
-			"thumb" : "/images/img-profile-1.png",
+			"thumb" : "/react-chatting/images/img-profile-1.png",
 			"message" : [
 				{
 					"txt" : "출근했니?",
@@ -45,7 +45,7 @@
 		{
 			"id" : 2,
 			"name" : "신정근 바텐더",
-			"thumb" : "/images/img-profile-2.png",
+			"thumb" : "/react-chatting/images/img-profile-2.png",
 			"message" : [
 				{
 					"txt" : "신정근 바텐더 테스트 대화 1",
@@ -73,7 +73,7 @@
 		{
 			"id" : 3,
 			"name" : "이미라 의사",
-			"thumb" : "/images/img-profile-3.png",
+			"thumb" : "/react-chatting/images/img-profile-3.png",
 			"message" : [
 				{
 					"txt" : "이미라 테스트 대화 1",
@@ -101,7 +101,7 @@
 		{
 			"id" : 4,
 			"name" : "구찬성 지배인",
-			"thumb" : "/images/img-profile-4.png",
+			"thumb" : "/react-chatting/images/img-profile-4.png",
 			"message" : [
 				{
 					"txt" : "구찬성 테스트 대화 1",
@@ -129,7 +129,7 @@
 		{
 			"id" : 5,
 			"name" : "노준석 총지배인",
-			"thumb" : "/images/img-profile-5.png",
+			"thumb" : "/react-chatting/images/img-profile-5.png",
 			"message" : [
 				{
 					"txt" : "노준석 테스트 대화 1",
@@ -157,7 +157,7 @@
 		{
 			"id" : 6,
 			"name" : "김유나 인턴",
-			"thumb" : "/images/img-profile-6.png",
+			"thumb" : "/react-chatting/images/img-profile-6.png",
 			"message" : [
 				{
 					"txt" : "김유나 테스트 대화 1",
@@ -185,7 +185,7 @@
 		{
 			"id" : 7,
 			"name" : "구현모",
-			"thumb" : "/images/img-profile-7.png",
+			"thumb" : "/react-chatting/images/img-profile-7.png",
 			"message" : [
 				{
 					"txt" : "구현모 테스트 대화 1",
@@ -241,25 +241,25 @@
 	],
 	"photo" : [
 		{
-			"thumb" : "/images/img-shot-1.png"
+			"thumb" : "/react-chatting/images/img-shot-1.png"
 		},
 		{
-			"thumb" : "/images/img-shot-2.png"
+			"thumb" : "/react-chatting/images/img-shot-2.png"
 		},
 		{
-			"thumb" : "/images/img-shot-3.png"
+			"thumb" : "/react-chatting/images/img-shot-3.png"
 		},
 		{
-			"thumb" : "/images/img-shot-4.png"
+			"thumb" : "/react-chatting/images/img-shot-4.png"
 		},
 		{
-			"thumb" : "/images/img-shot-5.png"
+			"thumb" : "/react-chatting/images/img-shot-5.png"
 		},
 		{
-			"thumb" : "/images/img-shot-6.png"
+			"thumb" : "/react-chatting/images/img-shot-6.png"
 		},
 		{
-			"thumb" : "/images/img-shot-7.png"
+			"thumb" : "/react-chatting/images/img-shot-7.png"
 		}
 	]
 }

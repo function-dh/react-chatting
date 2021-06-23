@@ -38,7 +38,7 @@ const PageTitle = styled.h1`
 const GnbMenu = styled.button`
 	${GnbIconDefault}
 	flex : 0 0 24px;
-	background: url('/images/icon-menu-white.svg') no-repeat 0 0 / 100%;
+	background: url('/react-chatting/images/icon-menu-white.svg') no-repeat 0 0 / 100%;
 `
 
 // button 스타일
@@ -48,25 +48,25 @@ const BtnWrap = styled.div`
 const BtnPhoto = styled.button`
 	${GnbIconDefault}
 	flex : 0 0 24px;
-	background: url('/images/img-upload.svg') no-repeat 0 0 / 100%;
+	background: url('/react-chatting/images/img-upload.svg') no-repeat 0 0 / 100%;
 `
 const BtnSearch = styled.button`
 	${GnbIconDefault}
 	flex : 0 0 24px;
 	margin-left : 17px;
-	background: url('/images/img-search.svg') no-repeat 0 0 / 100%;
+	background: url('/react-chatting/images/img-search.svg') no-repeat 0 0 / 100%;
 `
 const BtnBack = styled(Link)`
 	${GnbIconDefault}
 	flex : 0 0 24px;
 	text-indent : -9999px;
-	background: url('/images/img-back.svg') no-repeat 0 0 / 100%;
+	background: url('/react-chatting/images/img-back.svg') no-repeat 0 0 / 100%;
 `
 const BtnMyPage = styled(Link)`
 	${GnbIconDefault}
 	flex : 0 0 24px;
 	text-indent : -9999px;
-	background: url('/images/icon-person-white.svg') no-repeat 0 0 / 100%;
+	background: url('/react-chatting/images/icon-person-white.svg') no-repeat 0 0 / 100%;
 `
 
 // 사진 리스트

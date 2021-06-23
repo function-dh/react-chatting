@@ -81,7 +81,7 @@ const Photo = styled.span`
 		width: 40px;
 		height: 40px;
 		border-radius: 50%;
-		background: url('/images/img-close.svg') no-repeat 50% / 16px rgba(0,0,0,0.8);
+		background: url('/react-chatting/images/img-close.svg') no-repeat 50% / 16px rgba(0,0,0,0.8);
 	}
 `
 
@@ -161,7 +161,7 @@ const ChatBtnSend = styled.button`
 	height : 50px;
 	margin-left : 12px;
 	border-radius : 50%50%;
-	background: url("/images/img-send.svg") no-repeat 50% 50% / 26px 18px ${({ theme }) => theme.color.purple};
+	background: url('/react-chatting/images/img-send.svg') no-repeat 50% 50% / 26px 18px ${({ theme }) => theme.color.purple};
 `
 
 dayjs.locale('ko')

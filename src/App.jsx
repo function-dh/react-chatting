@@ -5,7 +5,7 @@ import Room from './pages/room/Room'
 function App(){
   return (
     <div id="wrap" className="wrap">
-      <Route exact path="/">
+      <Route exact path="/react-chatting">
         <Redirect to="/list" />
       </Route>
       <Route path="/list" component={Chat} />
