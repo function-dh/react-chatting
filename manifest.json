@@ -1,6 +1,6 @@
 {
-  "short_name": "채팅방 과제",
-  "name": "지그재그 프론트엔드 채팅방 과제",
+  "short_name": "채팅방",
+  "name": "리액트 채팅방 구현",
   "icons": [
     {
       "src": "favicon.ico",
