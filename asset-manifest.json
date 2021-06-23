@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-chatting/static/js/main.0d198019.chunk.js",
+    "main.js.map": "/react-chatting/static/js/main.0d198019.chunk.js.map",
+    "runtime-main.js": "/react-chatting/static/js/runtime-main.ea55b7c4.js",
+    "runtime-main.js.map": "/react-chatting/static/js/runtime-main.ea55b7c4.js.map",
+    "static/js/2.a9c632c5.chunk.js": "/react-chatting/static/js/2.a9c632c5.chunk.js",
+    "static/js/2.a9c632c5.chunk.js.map": "/react-chatting/static/js/2.a9c632c5.chunk.js.map",
+    "index.html": "/react-chatting/index.html",
+    "static/js/2.a9c632c5.chunk.js.LICENSE.txt": "/react-chatting/static/js/2.a9c632c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea55b7c4.js",
+    "static/js/2.a9c632c5.chunk.js",
+    "static/js/main.0d198019.chunk.js"
+  ]
+}

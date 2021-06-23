@@ -1,0 +1,15 @@
+{
+  "short_name": "채팅방 과제",
+  "name": "지그재그 프론트엔드 채팅방 과제",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5b36ac",
+  "background_color": "#ffffff"
+}
