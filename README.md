@@ -7,7 +7,7 @@
 - npm install 후 npm run start 시 local 서버 실행
 - 해당 url에서 확인 가능
 
-    [](https://function-dh.github.io/react-chatting)
+    [배포된 채팅방 링크](https://function-dh.github.io/react-chatting)
 
 ## 구현 내용
 
