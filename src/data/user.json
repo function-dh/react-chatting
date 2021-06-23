@@ -1,0 +1,265 @@
+{
+	"user" : [
+		{
+			"id" : 1,
+			"name" : "장만월 사장님",
+			"thumb" : "/images/img-profile-1.png",
+			"message" : [
+				{
+					"txt" : "출근했니?",
+					"sendTime" : "2021-05-30T19:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "출근했냐구?",
+					"sendTime" : "2021-05-30T19:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "어딘데 출근 안하니?",
+					"sendTime" : "2021-05-31T19:25:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "해외 출장중입니다!!!",
+					"sendTime" : "2021-05-31T19:25:00+09:00",
+					"checked" : false,
+					"selfChk" : true,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "해외 출장중입니다",
+					"sendTime" : "2021-06-02T18:23:00+09:00",
+					"checked" : false,
+					"selfChk" : true,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 2,
+			"name" : "신정근 바텐더",
+			"thumb" : "/images/img-profile-2.png",
+			"message" : [
+				{
+					"txt" : "신정근 바텐더 테스트 대화 1",
+					"sendTime" : "2021-05-30T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "신정근 바텐더 테스트 대화 2",
+					"sendTime" : "2021-05-30T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "오시는 길에 와인 몇병만 사다주세요",
+					"sendTime" : "2021-06-01T18:12:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 3,
+			"name" : "이미라 의사",
+			"thumb" : "/images/img-profile-3.png",
+			"message" : [
+				{
+					"txt" : "이미라 테스트 대화 1",
+					"sendTime" : "2021-05-29T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "이미라 테스트 대화 2",
+					"sendTime" : "2021-05-29T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "휴가 잘 보내고 계신가요? 다름이 아니라 지금 연락 부탁드려요",
+					"sendTime" : "2021-05-29T07:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 4,
+			"name" : "구찬성 지배인",
+			"thumb" : "/images/img-profile-4.png",
+			"message" : [
+				{
+					"txt" : "구찬성 테스트 대화 1",
+					"sendTime" : "2021-05-24T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "구찬성 테스트 대화 2",
+					"sendTime" : "2021-05-24T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "아 휴가셨군요. 약속은 다음으로 미루시죠!",
+					"sendTime" : "2021-05-25T02:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 5,
+			"name" : "노준석 총지배인",
+			"thumb" : "/images/img-profile-5.png",
+			"message" : [
+				{
+					"txt" : "노준석 테스트 대화 1",
+					"sendTime" : "2021-05-23T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "노준석 테스트 대화 2",
+					"sendTime" : "2021-05-23T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "휴가에서 언제 돌아오시는지요 돌아오시면 연락부탁드려요",
+					"sendTime" : "2021-05-24T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 6,
+			"name" : "김유나 인턴",
+			"thumb" : "/images/img-profile-6.png",
+			"message" : [
+				{
+					"txt" : "김유나 테스트 대화 1",
+					"sendTime" : "2021-05-12T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "김유나 테스트 대화 2",
+					"sendTime" : "2021-05-12T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "304호 키를 잃어버렸어요. 어떻게 해야하죠 ㅠ",
+					"sendTime" : "2021-05-13T11:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 7,
+			"name" : "구현모",
+			"thumb" : "/images/img-profile-7.png",
+			"message" : [
+				{
+					"txt" : "구현모 테스트 대화 1",
+					"sendTime" : "2021-05-14T18:23:00+09:00",
+					"checked" : false,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "구현모 테스트 대화 2",
+					"sendTime" : "2021-05-14T18:23:00+09:00",
+					"checked" : false,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "술먹자",
+					"sendTime" : "2021-05-14T18:23:00+09:00",
+					"checked" : false,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		},
+		{
+			"id" : 8,
+			"name" : "기본 계정",
+			"thumb" : "",
+			"message" : [
+				{
+					"txt" : "테스트 대화 1",
+					"sendTime" : "2021-05-11T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "테스트 대화 2",
+					"sendTime" : "2021-05-11T18:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				},
+				{
+					"txt" : "프로필 사진이 없을 경우",
+					"sendTime" : "2021-05-11T12:23:00+09:00",
+					"checked" : true,
+					"selfChk" : false,
+					"imageLink" : ""
+				}
+			]
+		}
+	],
+	"photo" : [
+		{
+			"thumb" : "/images/img-shot-1.png"
+		},
+		{
+			"thumb" : "/images/img-shot-2.png"
+		},
+		{
+			"thumb" : "/images/img-shot-3.png"
+		},
+		{
+			"thumb" : "/images/img-shot-4.png"
+		},
+		{
+			"thumb" : "/images/img-shot-5.png"
+		},
+		{
+			"thumb" : "/images/img-shot-6.png"
+		},
+		{
+			"thumb" : "/images/img-shot-7.png"
+		}
+	]
+}
